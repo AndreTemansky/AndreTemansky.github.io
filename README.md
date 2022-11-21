@@ -1,1 +1,1 @@
-<h1>AndreTemansky.github.io<h1/>
+<h1>Andre Temansky.github.io<h1/>

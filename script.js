@@ -23,28 +23,27 @@ const perguntas = [
         enunciado: "Qual FPS mais jogado na Steam?",
         alternativas: [
             {
-                texto: Counter Strike 2,
+                texto: "Counter Strike 2",
                 afirmacao: "afirmacao"
             },
             {
-                texto: Call of Duty,
+                texto: "Call of Duty",
                 afirmacao: "afirmacao"
-            }
-           {
-           texto: Battlefield 2042,
+            },
+            {  texto: "Battlefield 2042",
               afirmação: "afirmacao"
               }
         ]
     },
     {
-        enunciado: "O foco dos Jogos de FPS é?",
+            enunciado: "O foco dos Jogos de FPS é?",
         alternativas: [
             {
-                texto: Corpo a Corpo,
+                texto: "Corpo a Corpo",
                 afirmacao: "afirmacao"
             },
             {
-                texto: Armas de Fogo,
+                texto: "Armas de Fogo",
                 afirmacao: "afirmacao"
             }
         ]
